@@ -8,8 +8,6 @@
 - 💬 Ask me about anything you want, I would be happy to help;
 - 📫 How to reach me: tjddnfkdls0@naver.com;
   
-
-
 ### Tech Stack:
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
