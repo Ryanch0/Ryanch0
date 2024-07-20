@@ -37,9 +37,9 @@
 
 <table align="center">
   <tr>
-<!--     <td>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ryanch0&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
-    </td> -->
+    </td>
     <td>
       <a href="https://github.com/ryanch0/ryanch0">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanch0&layout=compact&theme=dark" alt="Top Langs" >
