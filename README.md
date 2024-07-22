@@ -1,6 +1,5 @@
 ## Hi 👋 I"m Sungwoo, a Developer from South Korea.
 
-
 <img src="https://github.com/Ryanch0/Ryanch0/assets/165358637/e38948f0-66ae-4ecc-95cf-1b40f9087592" style="width: 35%; max-width: 300px; min-width:150px" align="right"/>
 
 ### Talking about myself:
