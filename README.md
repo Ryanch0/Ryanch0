@@ -1,9 +1,10 @@
 ## Hi 👋 I"m Sungwoo, a Developer from South Korea.
 
-<img src="https://github.com/Ryanch0/Ryanch0/assets/165358637/e38948f0-66ae-4ecc-95cf-1b40f9087592" style="width: 35%; max-width: 300px; min-width:150px" align="right"/>
 
-
-
+<table align="center">
+  <tr>
+    <td>
+      
 ### Talking about myself:
 - 🔭 I’m a junior frontend-developer;
 - 🌱 I’m currently learning web development using AI service;
@@ -11,7 +12,12 @@
 - 💬 Ask me about anything you want, I would be happy to help;
 - 📫 How to reach me: tjddnfkdls0@gmail.com;
 - 😎 Here's my portfolio : https://ryanch0.github.io/RyanPortfolio/
-
+    </td>
+    <td>
+      <img src="https://github.com/Ryanch0/Ryanch0/assets/165358637/e38948f0-66ae-4ecc-95cf-1b40f9087592" style="width:300px" />
+    </td>
+  </tr>
+</table>
 
 
 ### Tech Stack:
