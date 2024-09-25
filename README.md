@@ -6,9 +6,9 @@
 
 
 ### Talking about myself:
-- 🔭 I’m a junior frontend-developer;
+- 🔭 I’m a junior Frontend-Developer;
 - 🌱 I’m currently learning web development using AI service;
-- 🤔 I’m looking for a job as a frontend-developer;
+- 🤔 I’m looking for a job as a Frontend-Developer;
 - 💬 Ask me about anything you want, I would be happy to help;
 - 📫 How to reach me: tjddnfkdls0@gmail.com;
 - 😎 Here's my portfolio : https://ryanch0.github.io/RyanPortfolio/
