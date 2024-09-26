@@ -11,7 +11,8 @@
 - 🤔 I’m looking for a job as a Frontend-Developer;
 - 💬 Ask me about anything you want, I would be happy to help;
 - 📫 How to reach me: tjddnfkdls0@gmail.com;
-- 😎 Here's my portfolio : https://ryanch0.github.io/RyanPortfolio/
+- 😎 Here's my blog : <a href="https://velog.io/@ryanch0/posts">Velog</a>
+- 😎 Here's my portfolio : <a href="https://ryanch0.github.io/RyanPortfolio/">Portfolio</a>
   
   
 
