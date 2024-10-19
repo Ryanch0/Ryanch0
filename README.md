@@ -5,7 +5,6 @@
 
 
 
-
 ### Talking about myself:
 - 🔭 I’m a junior Frontend-Developer;
 - 🌱 I’m currently learning web development using AI service;
