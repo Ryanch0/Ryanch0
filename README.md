@@ -7,8 +7,7 @@
 
 ### Talking about myself:
 - 🔭 I’m a junior Frontend-Developer;
-- 🌱 I’m currently learning web development using AI service;
-- 🤔 I’m looking for a job as a Frontend-Developer;
+- 🌱 I’m currently working as a frontend developer in the finance industry;
 - 💬 Ask me about anything you want, I would be happy to help;
 - 📫 How to reach me: tjddnfkdls0@gmail.com;
 - 🧐 Here's my blog : <a href="https://velog.io/@ryanch0/posts" target="_blank">Velog;</a>
