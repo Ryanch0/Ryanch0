@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
-<img src='https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white' height='20px'/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/> 
 <img src='https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff'/>
+<img src='https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff'/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white""/>
 <br/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
