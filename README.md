@@ -7,9 +7,9 @@
 ### Talking about myself:
 - 🌱 I’m currently working as a frontend developer in the finance industry;
 - 💬 Ask me about anything you want, I would be happy to help;
-- 📫 How to reach me: tjddnfkdls0@gmail.com;
+- 📫 How to reach me: ryan@ryanch0.dev;
 - 🧐 Here's my blog : <a href="https://velog.io/@ryanch0/posts" target="_blank">Velog;</a>
-- 😎 Here's my portfolio : <a href="https://ryanch0.github.io/RyanPortfolio/">Web-Portfolio;</a>
+- 😎 ~~Here's my portfolio : <a href="https://ryanch0.github.io/RyanPortfolio/">Web-Portfolio;</a>~~
   
 
   
