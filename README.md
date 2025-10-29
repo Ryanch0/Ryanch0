@@ -24,6 +24,7 @@
 <img src='https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white' width='124px'/>
 <br/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width='80px'/>
 <img alt="SASS" src ="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white""/>
 <br/>
@@ -32,15 +33,3 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ryanch0&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
-    </td>
-    <td>
-      <a href="https://github.com/ryanch0/ryanch0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanch0&layout=compact&theme=dark" alt="Top Langs" >
-      </a>
-    </td>
-  </tr>
-</table>
