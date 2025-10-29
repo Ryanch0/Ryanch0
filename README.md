@@ -1,15 +1,12 @@
-## Hi 👋 I"m Sungwoo, a Developer from South Korea.
+Currently working as a frontend developer in the finance industry.
 
+Feel free to reach out if you have any questions
 
-<img src="https://github.com/Ryanch0/Ryanch0/assets/165358637/e38948f0-66ae-4ecc-95cf-1b40f9087592" style="width: 35%; max-width: 300px; min-width:150px" align="right"/>
+Contact: ryan@ryanch0.dev
 
+Check out my blog: <a href="https://velog.io/@ryanch0/posts" target="_blank">velog</a>
 
-### Talking about myself:
-- 🌱 I’m currently working as a frontend developer in the finance industry;
-- 💬 Ask me about anything you want, I would be happy to help;
-- 📫 How to reach me: ryan@ryanch0.dev;
-- 🧐 Here's my blog : <a href="https://velog.io/@ryanch0/posts" target="_blank">Velog;</a>
-- 😎 ~~Here's my portfolio : <a href="https://ryanch0.github.io/RyanPortfolio/">Web-Portfolio;</a>~~
+- ~~Portfolio : <a href="https://ryanch0.github.io/RyanPortfolio/">Web-Portfolio;</a>~~
   
 
   
