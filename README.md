@@ -1,4 +1,4 @@
-Currently working as a frontend developer in the finance industry.
+Currently work as a frontend developer
 
 Feel free to reach out if you have any questions
 
