@@ -1,6 +1,6 @@
-Currently work as a frontend developer
-
-Feel free to reach out if you have any questions
+Currently working as a Frontend Developer in South Korea.
+<br/>
+Relocating to Vancouver, BC on March 18, 2026, to pursue new career opportunities as a Frontend Developer.
 
 Contact: ryan@ryanch0.dev
 
