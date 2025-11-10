@@ -1,6 +1,6 @@
 Frontend Developer currently based in South Korea.
 <br/>
-Relocating to Vancouver, BC on March 18, 2026, to pursue new opportunities as a Frontend Developer.
+Relocating to Vancouver, BC on March 18, 2026, to pursue new opportunities.
 
 Contact: ryan@ryanch0.dev
 
